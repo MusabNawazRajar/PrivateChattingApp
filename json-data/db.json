@@ -1,0 +1,414 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 30,
+      "password": "securepassword"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "age": 25,
+      "password": "strongpassword"
+    },
+    {
+      "id": "947b",
+      "username": "musabnawaz",
+      "firstName": "Musab",
+      "lastName": "Nawaz",
+      "age": 22,
+      "password": "Vvskcgcsuh56"
+    },
+    {
+      "id": "9ba7",
+      "username": "hanzala_amjad",
+      "firstName": "Hanzala",
+      "lastName": "Amjad",
+      "age": 23,
+      "password": "Fayurq34g"
+    },
+    {
+      "id": "df9a",
+      "username": "zain_ali",
+      "firstName": "Zain",
+      "lastName": "Ali",
+      "age": 12,
+      "password": "Gcsjcdgsf"
+    },
+    {
+      "id": "398a",
+      "username": "faizaazam",
+      "firstName": "Faiza",
+      "lastName": "Azam",
+      "age": 30,
+      "password": "57gxsjjhfdqg"
+    },
+    {
+      "id": "8c5c",
+      "username": "tariq_awan",
+      "firstName": "Tariq",
+      "lastName": "Awan",
+      "age": 35,
+      "password": "tariq_awan"
+    },
+    {
+      "id": "528d",
+      "username": "mynewpc",
+      "firstName": "my new",
+      "lastName": "pc",
+      "age": 34,
+      "password": "mynewpc"
+    },
+    {
+      "id": "1ec9",
+      "username": "hanzala_amjad1",
+      "firstName": "Hanzala",
+      "lastName": "Amjad",
+      "age": 23,
+      "password": "12345"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "sender": "john_doe",
+      "receiver": "musabnawaz",
+      "message": "Hello Musab, how's it going?",
+      "timestamp": "2024-02-10T10:05:00"
+    },
+    {
+      "id": "2",
+      "sender": "musabnawaz",
+      "receiver": "john_doe",
+      "message": "Hi John! I'm good, thanks. How about you?",
+      "timestamp": "2024-02-10T10:10:00"
+    },
+    {
+      "id": "2024-02-04T06:39:19.502Z",
+      "sender": "zain_ali",
+      "receiver": "tariq_awan",
+      "message": "Hi",
+      "timestamp": "2024-02-04T06:39:19.502Z"
+    },
+    {
+      "id": "2024-02-04T06:39:38.496Z",
+      "sender": "tariq_awan",
+      "receiver": "zain_ali",
+      "message": "Hi",
+      "timestamp": "2024-02-04T06:39:38.496Z"
+    },
+    {
+      "id": "2024-02-04T06:39:41.858Z",
+      "sender": "zain_ali",
+      "receiver": "tariq_awan",
+      "message": "Hh",
+      "timestamp": "2024-02-04T06:39:41.858Z"
+    },
+    {
+      "id": "2024-02-04T06:40:42.228Z",
+      "sender": "zain_ali",
+      "receiver": "tariq_awan",
+      "message": "Hi",
+      "timestamp": "2024-02-04T06:40:42.228Z"
+    },
+    {
+      "id": "2024-02-04T06:40:47.230Z",
+      "sender": "zain_ali",
+      "receiver": "tariq_awan",
+      "message": "Ffgfffff",
+      "timestamp": "2024-02-04T06:40:47.230Z"
+    },
+    {
+      "id": "2024-02-04T06:46:20.372Z",
+      "sender": "zain_ali",
+      "receiver": "faizaazam",
+      "message": "Hi",
+      "timestamp": "2024-02-04T06:46:20.372Z"
+    },
+    {
+      "id": "2024-02-04T06:54:02.354Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hi",
+      "timestamp": "2024-02-04T06:54:02.354Z"
+    },
+    {
+      "id": "2024-02-04T06:59:58.219Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "G",
+      "timestamp": "2024-02-04T06:59:58.219Z"
+    },
+    {
+      "id": "2024-02-04T07:06:31.060Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hi",
+      "timestamp": "2024-02-04T07:06:31.060Z"
+    },
+    {
+      "id": "2024-02-04T07:06:33.224Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Gg",
+      "timestamp": "2024-02-04T07:06:33.224Z"
+    },
+    {
+      "id": "2024-02-04T07:06:34.349Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "V",
+      "timestamp": "2024-02-04T07:06:34.349Z"
+    },
+    {
+      "id": "2024-02-04T07:06:36.193Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "G",
+      "timestamp": "2024-02-04T07:06:36.193Z"
+    },
+    {
+      "id": "2024-02-04T07:07:41.185Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hi",
+      "timestamp": "2024-02-04T07:07:41.185Z"
+    },
+    {
+      "id": "2024-02-04T07:08:39.332Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hi",
+      "timestamp": "2024-02-04T07:08:39.332Z"
+    },
+    {
+      "id": "2024-02-04T07:08:43.071Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "V",
+      "timestamp": "2024-02-04T07:08:43.071Z"
+    },
+    {
+      "id": "2024-02-04T07:08:44.988Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "G",
+      "timestamp": "2024-02-04T07:08:44.988Z"
+    },
+    {
+      "id": "2024-02-04T07:10:05.731Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hi",
+      "timestamp": "2024-02-04T07:10:05.731Z"
+    },
+    {
+      "id": "2024-02-04T07:10:20.465Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Fkesy ho",
+      "timestamp": "2024-02-04T07:10:20.465Z"
+    },
+    {
+      "id": "2024-02-04T07:10:28.751Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Fff",
+      "timestamp": "2024-02-04T07:10:28.751Z"
+    },
+    {
+      "id": "2024-02-04T07:12:10.645Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hi",
+      "timestamp": "2024-02-04T07:12:10.645Z"
+    },
+    {
+      "id": "2024-02-04T07:12:15.298Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Dffdd",
+      "timestamp": "2024-02-04T07:12:15.298Z"
+    },
+    {
+      "id": "2024-02-04T07:13:10.215Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hu",
+      "timestamp": "2024-02-04T07:13:10.215Z"
+    },
+    {
+      "id": "2024-02-04T07:14:54.100Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hii",
+      "timestamp": "2024-02-04T07:14:54.100Z"
+    },
+    {
+      "id": "2024-02-04T07:15:01.767Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Ffff",
+      "timestamp": "2024-02-04T07:15:01.767Z"
+    },
+    {
+      "id": "2024-02-04T07:15:05.743Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Ffr",
+      "timestamp": "2024-02-04T07:15:05.743Z"
+    },
+    {
+      "id": "2024-02-04T07:16:27.005Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Gg",
+      "timestamp": "2024-02-04T07:16:27.005Z"
+    },
+    {
+      "id": "2024-02-04T07:16:33.310Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Ffff",
+      "timestamp": "2024-02-04T07:16:33.310Z"
+    },
+    {
+      "id": "2024-02-04T07:17:27.966Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hhhsssa",
+      "timestamp": "2024-02-04T07:17:27.966Z"
+    },
+    {
+      "id": "2024-02-04T07:20:48.087Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Hhha",
+      "timestamp": "2024-02-04T07:20:48.087Z"
+    },
+    {
+      "id": "2024-02-04T07:20:55.722Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Gggff",
+      "timestamp": "2024-02-04T07:20:55.722Z"
+    },
+    {
+      "id": "2024-02-04T07:21:36.153Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Gg",
+      "timestamp": "2024-02-04T07:21:36.153Z"
+    },
+    {
+      "id": "2024-02-04T07:21:46.327Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Aaa",
+      "timestamp": "2024-02-04T07:21:46.327Z"
+    },
+    {
+      "id": "2024-02-04T07:22:08.063Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "Pppp",
+      "timestamp": "2024-02-04T07:22:08.063Z"
+    },
+    {
+      "id": "2024-02-04T07:22:26.309Z",
+      "sender": "mynewpc",
+      "receiver": "zain_ali",
+      "message": "addd",
+      "timestamp": "2024-02-04T07:22:26.309Z"
+    },
+    {
+      "id": "2024-02-04T07:30:01.257Z",
+      "sender": "zain_ali",
+      "receiver": "mynewpc",
+      "message": "H",
+      "timestamp": "2024-02-04T07:30:01.257Z"
+    },
+    {
+      "id": "1",
+      "sender": "hanzala_amjad1",
+      "receiver": "john_doe",
+      "message": "Hi",
+      "timestamp": "2024-02-05T16:44:04.906Z"
+    },
+    {
+      "id": "2",
+      "sender": "hanzala_amjad1",
+      "receiver": "john_doe",
+      "message": "How are you",
+      "timestamp": "2024-02-05T16:44:10.629Z"
+    },
+    {
+      "id": "1",
+      "sender": "hanzala_amjad1",
+      "receiver": "mynewpc",
+      "message": "Hi how are you",
+      "timestamp": "2024-02-05T16:44:22.995Z"
+    },
+    {
+      "id": "2",
+      "sender": "mynewpc",
+      "receiver": "hanzala_amjad1",
+      "message": "I am fine what are you doing ",
+      "timestamp": "2024-02-05T16:45:15.492Z"
+    },
+    {
+      "id": "1",
+      "sender": "mynewpc",
+      "receiver": "tariq_awan",
+      "message": "Hi",
+      "timestamp": "2024-02-05T16:45:21.642Z"
+    },
+    {
+      "id": "1",
+      "sender": "mynewpc",
+      "receiver": "hanzala_amjad",
+      "message": "Hi",
+      "timestamp": "2024-02-05T16:45:34.766Z"
+    },
+    {
+      "id": "2",
+      "sender": "mynewpc",
+      "receiver": "tariq_awan",
+      "message": "Gg",
+      "timestamp": "2024-02-05T16:45:42.100Z"
+    },
+    {
+      "id": "1",
+      "sender": "mynewpc",
+      "receiver": "john_doe",
+      "message": "Hi",
+      "timestamp": "2024-02-05T16:48:51.229Z"
+    },
+    {
+      "id": "1",
+      "sender": "tariq_awan",
+      "receiver": "musabnawaz",
+      "message": "Hi",
+      "timestamp": "2024-02-05T17:03:48.552Z"
+    },
+    {
+      "id": "3",
+      "sender": "tariq_awan",
+      "receiver": "mynewpc",
+      "message": "Hanzla amjad",
+      "timestamp": "2024-02-05T17:04:10.985Z"
+    },
+    {
+      "id": "4",
+      "sender": "tariq_awan",
+      "receiver": "mynewpc",
+      "message": "Gg",
+      "timestamp": "2024-02-05T17:04:19.899Z"
+    }
+  ]
+}
